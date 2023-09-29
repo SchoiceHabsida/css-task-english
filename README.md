@@ -34,6 +34,6 @@ If you have no knowledge of layout, you can start learning from scratch.
 
 ### Result
 Provide as 2 links
-1) Github repository - [How to put your project on GitHub](https://maxsite.org/page/how-to-put-your-project-on-github-com)
-2) Github Pages - [How to set up](https://developer.mozilla.org/ru/docs/Learn/Common_questions/Using_Github_pages)
-# css-task
+1) Github repository - [How to put your project on GitHub](https://youtu.be/qMck70tLDuo?feature=shared)
+2) Github Pages - [How to set up](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/Using_GitHub_pages)
+# css-task-english
