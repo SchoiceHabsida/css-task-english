@@ -10,7 +10,7 @@ If you have no knowledge of layout, you can start learning from scratch.
 
 ### You need to create a layout based on the screenshot without using any libraries or frameworks.
 
-- Without using libraries and frameworks, minification is not required, and JavaScript is not needed (hint: the text after "Individual / Business / ..." does not change).
+- Without using libraries and frameworks, minification is not required, and JavaScript is not needed.
 - Perfect pixel-perfect is not required, but it should generally match the image.
 - You can use preprocessors if you want.
 - If you don't know how to create something from scratch, you can skip it.
@@ -18,6 +18,7 @@ If you have no knowledge of layout, you can start learning from scratch.
 - Use this font https://www.fontsquirrel.com/fonts/barlow
 - Create responsive layout if you can.
 - If you know how, add animations for hover/focus effects as you see fit.
+- The text after "Individual / Business / ..." does not change
 
 ### Color Palette:
 
