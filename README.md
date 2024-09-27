@@ -1,8 +1,7 @@
-# Task for determining the level of layout knowledge
+# Layout assignment
 
 ![Template](/template.jpg)
 
-If you have no knowledge of layout, you can start learning from scratch.
 
 ### Recommended Code Editors
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -13,11 +12,10 @@ If you have no knowledge of layout, you can start learning from scratch.
 - Without using libraries and frameworks, minification is not required, and JavaScript is not needed.
 - Perfect pixel-perfect is not required, but it should generally match the image.
 - You can use preprocessors if you want.
-- If you don't know how to create something from scratch, you can skip it.
 - Images for reference are located in the img folder.
 - Use this font https://www.fontsquirrel.com/fonts/barlow
 - Create responsive layout if you can.
-- If you know how, add animations for hover/focus effects as you see fit.
+- Add animations for hover/focus effects as you see fit.
 - The text after "Individual / Business / ..." does not change
 
 ### Color Palette:
